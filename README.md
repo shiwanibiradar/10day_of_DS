@@ -1,1 +1,1 @@
-# 10day_of_DS
+# 10day_of_DS in C language
